@@ -1,1 +1,2 @@
-[0321/112816.488:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0321/172057.864:ERROR:os_crypt_win.cc(93)] Failed to decrypt: 키를 지정된 상태에서 사용하기에 부적합합니다. (0x8009000B)
+[0321/172258.444:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
